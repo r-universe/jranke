@@ -1,0 +1,10 @@
+[
+  {
+    "package": "chemCal",
+    "oncran": true
+  },
+  {
+    "package": "mkin",
+    "oncran": true
+  }
+]
