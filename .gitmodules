@@ -5,6 +5,9 @@
 [submodule "chemCal"]
 	path = chemCal
 	url = https://github.com/jranke/chemCal
+[submodule "chents"]
+	path = chents
+	url = https://github.com/jranke/chents
 [submodule "mkin"]
 	path = mkin
 	url = https://github.com/jranke/mkin
